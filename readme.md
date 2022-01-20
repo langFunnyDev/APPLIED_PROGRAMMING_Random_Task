@@ -21,8 +21,10 @@ The program draws lots by shuffling the sequence
 ## Screenshot:
 ![image](https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/blob/master/test/Test%20(N=5).png?raw=true)
 Файл лога: https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/raw/master/test/(2022-01-20)-(21-05-22)-errors-log.txt
+
 ![image](https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/blob/master/test/Test%20(N=10).png?raw=true)
 Файл лога: https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/raw/master/test/(2022-01-20)-(21-05-59)-errors-log.txt
+
 ![image](https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/blob/master/test/Test%20(N=30).png?raw=true)
 Файл лога: https://github.com/langFunnyDev/APPLIED_PROGRAMMING_Random_Task/raw/master/test/(2022-01-20)-(21-06-11)-errors-log.txt
 
