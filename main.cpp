@@ -82,6 +82,7 @@ void userGreeting(){
 
 int main() {
     SetConsoleOutputCP(CP_UTF8);
+    logger_init();
 
     srand(time(NULL));
 
@@ -114,5 +115,6 @@ int main() {
     logger(LogMessage);
 
     std::cout << std::endl;
+    system("pause");
     return 0;
 }
